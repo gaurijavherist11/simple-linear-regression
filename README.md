@@ -123,3 +123,5 @@ Linear regression
 Model interpretation
 
 Evaluation metrics
+
+The data set which i used is from https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression
